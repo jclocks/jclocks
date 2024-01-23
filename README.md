@@ -2,7 +2,6 @@
 - 👀 I’m interested in developing developer skills and possibly making some cool projects along the way.
 - 🌱 I’m currently learning Python (primarily), and have some practice with PHP, SQL, and Bash. Looking to also learn Go.
 - 💞️ I’m looking to collaborate on beginner-friendly projects looking for help. I particularly enjoy smaller, more "indie" projects.
-- 📫 How to reach me: either here or at johnny@tiradolabs.net
 
 <!---
 jclocks/jclocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
